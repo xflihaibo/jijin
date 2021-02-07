@@ -1,0 +1,36 @@
+body {
+    height: 500px;
+    width: 400px;
+    overflow-y: auto;
+}
+
+.jj-logo {
+    height: 26px;
+}
+.d-flex.input-group-sm {
+    width: 240px;
+}
+.btn {
+    width: 60px;
+}
+
+#jj-list-group .list-group-item .mb-1 {
+    font-size: 14px;
+}
+
+#jj-list-group .mb-1 {
+    font-size: 12px;
+}
+#jj-list-group .list-group-item a {
+    font-size: 12px;
+    cursor: pointer;
+}
+
+.navbar-collapse {
+    align-items: center;
+    display: inline-block;
+    width: 232px;
+}
+.collapse:not(.show) {
+    display: none;
+}
